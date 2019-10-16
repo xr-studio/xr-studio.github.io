@@ -111,7 +111,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "VR/AR 어렵지 않아요."
   location         : "Seoul"
-  email            : "kyunghee.park@gmail.com"
+#  email            : "kyunghee.park@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
