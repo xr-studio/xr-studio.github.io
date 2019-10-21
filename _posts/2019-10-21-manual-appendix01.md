@@ -303,4 +303,75 @@
   * repetitions
   * timeScale
   * 클립
-  
+* 조명
+  * angle
+  * castShadow
+  * color
+  * decay
+  * distance
+  * groundColor
+  * intensity
+  * penumbra
+  * shadowBias
+  * shadowCameraBottom
+  * shadowCameraFar
+  * shadowCameraFov
+  * shadowCameraLeft
+  * shadowCameraNear
+  * shadowCameraRight
+  * shadowCameraTop
+  * shadowCameraVisible
+  * shadowMapHeight
+  * shadowMapWidth
+  * shadowRadius
+  * target
+  * type
+* 카메라
+  * far
+  * fov
+  * near
+  * spectator
+  * zoom
+  * 활성
+* 커서
+  * downEvents
+  * fuse
+  * fuseTimeour
+  * mouseCursorStyle
+  * rayOrigin
+  * upEvents
+* 키보드 단축키
+  * enterVR
+  * exitVR
+* 텍스트
+  * alphaTest
+  * anchor
+  * baseline
+  * color
+  * font
+  * fontImage
+  * height
+  * letterSpacing
+  * lineHeight
+  * negate
+  * opacity
+  * shader
+  * side
+  * tabSize
+  * transparent
+  * value
+  * whiteSpace
+  * width
+  * wrapCount
+  * wrapPixels
+  * xOffset
+  * yOffset
+  * zOffset
+  * align
+* 풀(POOL)
+  * container
+  * dynamic
+  * mixin
+  * size
+* 피봇
+  * 피봇
