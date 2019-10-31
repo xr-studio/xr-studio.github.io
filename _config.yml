@@ -107,9 +107,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "박경희"
+  name             : "XR-Space"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "clayworks"
+  bio              : "동국대학교"
   location         : "Seoul"
 #  email            : "kyunghee.park@gmail.com"
   links:
