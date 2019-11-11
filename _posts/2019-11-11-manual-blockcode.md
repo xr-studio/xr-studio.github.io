@@ -1,8 +1,8 @@
----
-title : "XR-Studio 블럭코드 개요"
-date : 2019-11-11 14:40:00 +0900
-categories: VR AR XR-Studio Blockcode update
----
+//---
+//title : "XR-Studio 블럭코드 개요"
+//date : 2019-11-11 14:40:00 +0900
+//categories: VR AR XR-Studio Blockcode update
+//---
 
 # 1. XR-Studio 블럭코드 스크립트 
 ## 1. XR-Studio의 블럭코드 개요 
