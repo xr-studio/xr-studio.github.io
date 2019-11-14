@@ -36,7 +36,7 @@ XR-Studio 블럭코드 그룹
 프로그램은 하나 이상의 서브프로그램(명령문(Statement)들의 집합)으로 나뉩니다. 이러한 서브프로그램은 함수(Function) 또는 프로시져(Procedure)라고도 불립니다.
 모든 서브프로그램은 제각각 이름을 가지고 있으며, 서브프로그램 구성하는 실제 명령문들은 대체로 작성된 순서대로 실행됩니다.
 
-![XR-Studio 블럭코드](https://xr-studio.github.io/resources/2019-11-14/xr-studio-blockcode-system-01.png)
+![XR-Studio 블럭코드](https://xr-studio.github.io/resources/2019-11-14/xr-studio-Blockcode-system-01.png)
 
 | 블럭 이름 | 구분 | 설명 |
 |---|---|---|
@@ -68,7 +68,7 @@ XR-Studio에 의해 제작되는 컨텐츠는 ECS(Entity Component System)에 �
 따라서 특정 오브젝트에 대해서만 동작하는 코드를 작성하고 싶다면, 해당 오브젝트에 대해서만 동작하는 코드 블럭을 추가하거나 특정 이벤트를 호출하는 방식으로 구현하는 것이 좋습니다. 
 시스템 호출 함수 블럭 중에는 시스템에서 매개변수를 전달하는 블럭이 있습니다. 이들 매개변수는 해당 블럭을 캔버스에 가져다 놓으면 'Functions' 카테고리에 자동으로 나타납니다.
 
-![XR-Studio 블럭코드](https://xr-studio.github.io/resources/2019-11-14/xr-studio-blockcode-system-02.png)
+![XR-Studio 블럭코드](https://xr-studio.github.io/resources/2019-11-14/xr-studio-Blockcode-system-02.png)
 
 XR-Studio는 3D 그래픽스 엔진을 사용하여 입체적인 시각효과를 제공하는 컨텐츠를 제공합니다. 
 여기에 사용되는 엔진은 Three.js라는 3D 그래픽스 라이브러리와 WebXR 기술에 기반하고 있습니다.
@@ -102,7 +102,7 @@ XR-Studio에서는 이들 x,y,z를 각각 적색(Red), 녹색(Green), 청색(Blu
 | 화면의 속성 | 속성 | 브라우저 영역의 속성으로 실제 렌더링이 가능한 캔버스 영역의 속성입니다. |
 | 오브젝트 | 속성 | 블럭코드로 오브젝트 가져오기 |
 
-![XR-Studio 블럭코드](https://xr-studio.github.io/resources/2019-11-14/xr-studio-blockcode-system-03.png)
+![XR-Studio 블럭코드](https://xr-studio.github.io/resources/2019-11-14/xr-studio-Blockcode-system-03.png)
 
 ## 3. 이벤트 
 XR-Studio의 코드는 이벤트 주도(Event-driven) 방식의 프로그래밍을 지원합니다.
