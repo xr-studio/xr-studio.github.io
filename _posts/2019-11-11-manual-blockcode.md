@@ -30,7 +30,6 @@ XR-Studio 블럭코드 그룹
 |Private Variable | 클래스의 Private 변수의 관리 블럭 |
 |Event(신호) | 이벤트의 생성 / 이벤트 처리 핸들러 블럭 |
 |Functions(함수) | 함수의 정의 및 매개변수|
-[XR-Studio 블럭코드의 분류][2019-11-14]
 
 ## 2. 시스템 블럭
 프로그램은 하나 이상의 서브프로그램(명령문(Statement)들의 집합)으로 나뉩니다. 이러한 서브프로그램은 함수(Function) 또는 프로시져(Procedure)라고도 불립니다.
