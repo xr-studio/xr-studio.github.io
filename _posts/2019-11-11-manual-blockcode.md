@@ -18,7 +18,7 @@ XR-Studio는 자바스크립트(Javascript)를 기본 프로그래밍 언어로 
 XR-Studio 블럭코드 그룹
 
  블럭 |  설명 
-:---:|:---
+---|---
 System(시스템) | 3D 그래픽스, VR/AR의 실행명령 블럭<br> XR-Studio를 이용해 컨텐츠를 제작하는데 가장 중요한 블럭들이 여기에 있습니다. 
 Logic(논리) | if .. then .. 등 논리식 및 조건문에 해당하는 블럭 
 Loops(반복) | for, while 등 반복문에 해당하는 블럭 
