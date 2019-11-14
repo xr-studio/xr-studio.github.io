@@ -19,17 +19,17 @@ XR-Studio 블럭코드 그룹
 
  블럭 |  설명 
 :---:|:---
-|System(시스템) | 3D 그래픽스, VR/AR의 실행명령 블럭<br> XR-Studio를 이용해 컨텐츠를 제작하는데 가장 중요한 블럭들이 여기에 있습니다. |
-|Logic(논리) | if .. then .. 등 논리식 및 조건문에 해당하는 블럭 |
-|Loops(반복) | for, while 등 반복문에 해당하는 블럭 |
-|Math(수학) | 산술연산식 |
-|Text(텍스트) | 문장(텍스트) 처리 블럭 |
-|Lists(리스트) | 리스트 형식의 데이터 구조를 조작할 수 있는 블럭 |
-|Color(색) | rgb 컬러의 표기 |
-|Public Variable | 클래스의 Public 변수의 관리 블럭 |
-|Private Variable | 클래스의 Private 변수의 관리 블럭 |
-|Event(신호) | 이벤트의 생성 / 이벤트 처리 핸들러 블럭 |
-|Functions(함수) | 함수의 정의 및 매개변수|
+System(시스템) | 3D 그래픽스, VR/AR의 실행명령 블럭<br> XR-Studio를 이용해 컨텐츠를 제작하는데 가장 중요한 블럭들이 여기에 있습니다. 
+Logic(논리) | if .. then .. 등 논리식 및 조건문에 해당하는 블럭 
+Loops(반복) | for, while 등 반복문에 해당하는 블럭 
+Math(수학) | 산술연산식 
+Text(텍스트) | 문장(텍스트) 처리 블럭 
+Lists(리스트) | 리스트 형식의 데이터 구조를 조작할 수 있는 블럭 
+Color(색) | rgb 컬러의 표기 
+Public Variable | 클래스의 Public 변수의 관리 블럭 
+Private Variable | 클래스의 Private 변수의 관리 블럭 
+Event(신호) | 이벤트의 생성 / 이벤트 처리 핸들러 블럭 
+Functions(함수) | 함수의 정의 및 매개변수
 
 ## 2. 시스템 블럭
 프로그램은 하나 이상의 서브프로그램(명령문(Statement)들의 집합)으로 나뉩니다. 이러한 서브프로그램은 함수(Function) 또는 프로시져(Procedure)라고도 불립니다.
